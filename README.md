@@ -1,6 +1,5 @@
 开发人员
 
-$ git clone http://git.jm.com/FE-team/nuxt-template.git 下载项目代码
 $ yarn 下载依赖包
 $ yarn run dev 启动开发环境服务
 $ yarn run build 项目构建
@@ -8,7 +7,7 @@ $ yarn run start 启动基于构建后代码的服务
 运维人员
 
 构建代码
-$ git clone http://git.jm.com/FE-team/nuxt-template.git 下载项目代码
+
 $ yarn 下载所有依赖包
 $ yarn run build:prod 项目构建 build:test,build:pre,build:prod
 部署代码至对应服务器
